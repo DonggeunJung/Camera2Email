@@ -3,7 +3,7 @@
 [Image1 : Main Activity]
 
 <div>
-<img src="https://github.com/DonggeunJung/DonggeunJung/blob/master/Camera2Email.jpg?raw=true width="400px"></img>
+<img src="https://github.com/DonggeunJung/Camera2Email/blob/master/Camera2Email.jpg?raw=true width="400px"></img>
 </div>
 
 
