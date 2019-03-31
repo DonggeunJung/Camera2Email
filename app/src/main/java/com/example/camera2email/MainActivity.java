@@ -28,8 +28,8 @@ public class MainActivity extends BaseActivity {
     final String KEY_MY_NAME = "MyName";
     final String KEY_RECEIVE_EMAIL = "ReceiveEmail";
     final int ACT_CAMERA = 0;
-    final String SENDER_ID = "Your Email address";
-    final String SENDER_PW = "Your Email password";
+    final String SENDER_ID = "topsan72@gmail.com";
+    final String SENDER_PW = "wjlpepxmfhmmudvj";
 
     EditText editSenderName;
     EditText editMailText;
